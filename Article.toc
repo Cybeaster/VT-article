@@ -1,0 +1,8 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}\textit {Описание кафедры Вычислительной Техники}}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Современное состояние материально-технической базы}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Организация учебного процесса на кафедре}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Организация научно-исследовательской работы на кафедре}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}\textit {Архитектура Linux}}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}}{10}{subsection.2.2}%
